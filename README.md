@@ -1,2 +1,2 @@
-# interview_prep
+# interview prep
 interview prep in python and js
